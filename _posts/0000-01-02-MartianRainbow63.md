@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our escond slide"
 ---
-Your text
+no meme here
 Use the arrow to go back!
